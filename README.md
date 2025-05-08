@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a computer science student with a passion for development in all layers — from low-level systems to full-stack web apps.
+I'm a computer science student with a passion for development in all layers.
 
 - 🦀 Deeply into **Rust**
 - 🔍 Exploring web security, networking, and automation
